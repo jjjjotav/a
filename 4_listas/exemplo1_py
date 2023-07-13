@@ -1,0 +1,8 @@
+frutas = [
+    "maça",
+    "banana",
+    "limao",
+    "laranja",
+    "melancia"
+]
+print(frutas[0])
