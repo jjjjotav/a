@@ -5,6 +5,7 @@ def questao(numero):
             resultado += f"{str(n)}"
         resultado += "\n"
     return resultado
+
 print(questao(4))
         
     
